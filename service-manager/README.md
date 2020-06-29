@@ -14,5 +14,7 @@ $ php artisan jwt:secret
 
 # Run your project to a specific port
 $ php artisan serve --port=8000
+
+# Register your service and Service Endpoints form your services
 ```
     
